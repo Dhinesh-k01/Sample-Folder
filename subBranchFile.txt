@@ -1,0 +1,7 @@
+created a file inside a sub branch 
+
+i) don't forget that whenever we are creating a new branch we have to use "git pull" command to see changes in locally 
+ii) again follow the 3 steps to save these changes in github
+      1) git add . / filename
+      2) git commit -m "some message" 
+      3) git push origin main/master which branch you're in!
